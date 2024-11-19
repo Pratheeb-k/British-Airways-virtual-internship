@@ -11,4 +11,5 @@ creating a classification model to predict customer buying behaviour
 preparing a powerpoint representation to highlight our insights and analysis
 
 
-### Completion Certificate link: [Certificate] (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_dvwGD3CDxz6tQbqFC_1724738542349_completion_certificate.pdf)
+### Completion Certificate link: ***[Certificate] (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_dvwGD3CDxz6tQbqFC_1724738542349_completion_certificate.pdf)***
+
